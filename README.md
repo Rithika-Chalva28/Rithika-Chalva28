@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rithika%20Chalva&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Projects&descAlignY=58&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%" alt="Rithika Chalva"/>
 
 <h2 align="center">Hey there, I'm Rithika 👋</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rithika-Chalva28&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Rithika-Chalva28?style=for-the-badge&color=ff69b4&labelColor=0d1117"/>
   <img src="https://img.shields.io/github/stars/Rithika-Chalva28?style=for-the-badge&color=ff69b4&labelColor=0d1117"/>
 </p>
 
@@ -38,9 +37,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithika-Chalva28&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4"/>
 </p>
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithika-Chalva28&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%"/>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rithika-Chalva28/Rithika-Chalva28/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+</p>
 
 <p align="center"><i>See you in the next commit 💖</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
